@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "window.restoreWindows": "none",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "python.defaultInterpreterPath": "/Users/nicolas/.envs/aachen/bin/python",
+    "editor.wordWrap": "on",
+    "notebook.lineNumbers": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.theme": "classic",
+    "[python]": {
+    },
+    "editor.accessibilitySupport": "off",
+    "window.zoomLevel": 1,
+}
